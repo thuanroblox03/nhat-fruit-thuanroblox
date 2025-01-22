@@ -1,8 +1,11 @@
 Config = {
-    namescript = "Test",--Tên Script
-    logoscript = "117390141608083",--ID Logo Script
-    tacgia = "sadas"-- Tên Tác Giả
-}
+    namescript = "Test",--Tên Script
+    logoscript = "117390141608083",--ID Logo Script
+    tacgia = "sadas"-- Tên Tác Giả
+Config = {òni    tacgia = "sadas"-- Tên Tác Giả
+    logoscript = "117390141608083",--ID Logo Script
+    namescript = "Test",--Tên Script
+Config = Config = {
 local placeId = game.PlaceId
 local jobId = game.JobId
 
